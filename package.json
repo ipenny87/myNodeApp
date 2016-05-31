@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ipenny87/myNodeApp/issues"
   },
-  "homepage": "https://github.com/ipenny87/myNodeApp#readme"
+  "homepage": "https://github.com/ipenny87/myNodeApp#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
 }
