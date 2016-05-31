@@ -1,0 +1,19 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "This is a simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipenny87/myNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipenny87/myNodeApp/issues"
+  },
+  "homepage": "https://github.com/ipenny87/myNodeApp#readme"
+}
